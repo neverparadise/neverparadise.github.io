@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://neverparadise.github.io/al-folio/sitemap.xml
+Sitemap: https://neverparadise.github.io/sitemap.xml
