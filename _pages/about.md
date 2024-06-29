@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Want to live with no regret.
 
 profile:
   align: right
-  image: kukjin_profile.jpg
-  image_circular: true # crops the image to make it circular
+  image: kukjin_profile2.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    Kukjin Kim
+    Lg Electronics
+    ye20013@gmail.com
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
