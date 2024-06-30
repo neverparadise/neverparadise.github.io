@@ -9,9 +9,7 @@ profile:
   image: kukjin_profile2.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    Seoul,
-
-    Republic of Korea  
+ 
       
     
 news: true # includes a list of news items
