@@ -1,21 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Want to live with no regret.
+subtitle: Reinforcing myself everyday. 
 
 profile:
-  align: right
+  align: left 
   image: kukjin_profile2.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    Kukjin Kim
-    Lg Electronics
-    ye20013@gmail.com
+    Seoul,
 
+    Republic of Korea  
+      
+    
 news: true # includes a list of news items
+latest_posts: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Hello, I'm passionate about reinforcement learning and neural networks. My research goal is to develop a general agent capable of solving a wide range of real-world problems and adapting to new tasks. Currently, I work as a research engineer at LG Electronics. Prior to joining LG, I was a master's student at Korea University, where I was supervised by Prof. Changhee Joo.
+Hello, I'm passionate about reinforcement learning and neural networks. My primary research goal is to develop a general agent capable of solving a wide range of real-world problems and adapting to new tasks. My final goal is to apply this versatile agent to robotic tasks.  Currently, I work as a research engineer at LG Electronics. Prior to joining LGE, I was a master's student at Korea University, where I was supervised by Prof. Changhee Joo.  
+  
+What constitutes a general and adaptive RL agent? I believe it will be based on the integration of various research areas. For example, I think methods for continual reinforcement learning, new types of adaptive neural networks, and innovative learning algorithms are required. I will explore these areas during future Ph.D. program. 
+
