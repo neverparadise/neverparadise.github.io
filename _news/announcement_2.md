@@ -6,8 +6,7 @@ inline: true
 related_posts: false
 ---
 
-My paper was accepted at NeurIPS 2023 Workshop: Foundation Models for Decision Making   
-[Project Page](https://neverparadise.github.io/aa4hmrl)
+My paper was accepted at NeurIPS 2023 Workshop: Foundation Models for Decision Making.  
 
 
 
